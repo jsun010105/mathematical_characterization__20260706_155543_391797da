@@ -1,0 +1,26 @@
+{
+  "success": false,
+  "stages": {
+    "resource_finder": {
+      "success": true,
+      "completion_marker": "/workspaces/mathematical_characterization__20260706_155543_391797da/.resource_finder_complete",
+      "outputs": {
+        "literature_review": "/workspaces/mathematical_characterization__20260706_155543_391797da/literature_review.md",
+        "resources_catalog": "/workspaces/mathematical_characterization__20260706_155543_391797da/resources.md",
+        "papers_dir": "/workspaces/mathematical_characterization__20260706_155543_391797da/papers",
+        "code_dir": "/workspaces/mathematical_characterization__20260706_155543_391797da/code"
+      },
+      "log_file": "/workspaces/mathematical_characterization__20260706_155543_391797da/logs/resource_finder_claude.log",
+      "transcript_file": "/workspaces/mathematical_characterization__20260706_155543_391797da/logs/resource_finder_claude_transcript.jsonl",
+      "elapsed_time": 568.3477003574371
+    },
+    "experiment_runner": {
+      "success": false,
+      "return_code": 1,
+      "elapsed_time": 251.22711420059204,
+      "log_file": "/workspaces/mathematical_characterization__20260706_155543_391797da/logs/execution_claude.log",
+      "transcript_file": "/workspaces/mathematical_characterization__20260706_155543_391797da/logs/execution_claude_transcript.jsonl"
+    }
+  },
+  "work_dir": "/workspaces/mathematical_characterization__20260706_155543_391797da"
+}
